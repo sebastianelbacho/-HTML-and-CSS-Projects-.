@@ -1,0 +1,16 @@
+body{
+    background-color: darkgoldenrod;
+    
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 75px;
+    color:white;
+    text-align: center;
+    text-shadow: 1px 1px 0px #F3F1EA;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow:2px 2px 0px #FAF8F5;
+    
+}
